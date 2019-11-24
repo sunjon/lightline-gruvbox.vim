@@ -9,18 +9,10 @@ Installation
 ----------------
 Use your favourite plugin manager.
 ```vim
-Plug 'shinchu/lightline-gruvbox.vim'
+Plug 'sunjon/lightline-gruvbox.vim'
 ```
 Add the following lines to your `.vimrc`.
 ```vim
 let g:lightline = {}
 let g:lightline.colorscheme = 'gruvbox'
 ```
-
-Screenshots
-----------------
-### Dark
-![dark](https://raw.githubusercontent.com/shinchu/images/master/lightline-gruvbox/dark.png)
-
-### Light
-![light](https://raw.githubusercontent.com/shinchu/images/master/lightline-gruvbox/light.png)
